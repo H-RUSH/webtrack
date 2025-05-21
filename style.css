@@ -22,3 +22,17 @@
   margin-top: -60px;
   margin-left: 30px;
 }
+.hard{
+  height: 100px;
+  width: 100px;
+}
+#one{
+  background-color: aqua;
+  margin-top: 50pxpx;
+  margin-left: 20px;
+}
+#two{
+  background-color: brown ;
+  margin-top:-100px;;
+  margin-left: 50px;
+}
