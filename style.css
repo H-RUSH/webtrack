@@ -28,11 +28,14 @@
 }
 #one{
   background-color: aqua;
-  margin-top: 50pxpx;
-  margin-left: 20px;
+  margin: top 0%;
+  margin-left: 50px;
 }
 #two{
   background-color: brown ;
-  margin-top:-100px;;
-  margin-left: 50px;
+  margin-top:0px; /* here is a catch you can not do this with div i will find it */
+  margin-left: 100px;
+}
+#himadry{
+  margin-top:0px;
 }
