@@ -50,3 +50,9 @@
   /* here is a catch you can not do this with div i will find it */
   margin-left: 100px;
 }
+#box1{
+height: 100px;
+width: 100px;
+background-color: black;
+margin: auto;
+}
