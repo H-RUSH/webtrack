@@ -1,0 +1,17 @@
+#Float{
+    text-align: center;   
+}
+body{
+    background-color: aqua;
+}
+#float{
+    border:solid;
+    border-radius:2px;
+    float: left;
+    float: top;
+    display: flex;
+}
+#imagef{
+    height: 200px;
+    width: 200px;
+}
