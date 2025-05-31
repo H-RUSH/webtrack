@@ -5,13 +5,15 @@ body{
     background-color: aqua;
 }
 #float{
-    border:solid;
+    border: solid;
     border-radius:2px;
+    width: 100%;
+   
     float: left;
-    float: top;
     display: flex;
 }
 #imagef{
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100;
+   
 }
