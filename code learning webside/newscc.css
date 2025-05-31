@@ -4,16 +4,19 @@
 body{
     background-color: aqua;
 }
-#float{
-    border: solid;
-    border-radius:2px;
-    width: 100%;
-   
+#containar1{
+    background-color: aliceblue;
+    border:  solid;
+    margin: 5px;
+}
+
+#imagef{
+    margin: 5px;
+    text-align: justify;
+    border: 0 solid;
+    height: 50px;
+    width: 50px;
+    font-size: medium;
     float: left;
     display: flex;
-}
-#imagef{
-    height: 100px;
-    width: 100;
-   
 }
