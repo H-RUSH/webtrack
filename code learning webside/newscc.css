@@ -20,3 +20,8 @@ body{
     float: left;
     display: flex;
 }
+#box1{
+    height: 50px;
+    border: 4px solid;
+    overflow: hidden scroll;
+}
