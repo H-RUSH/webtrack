@@ -23,5 +23,9 @@ body{
 #box1{
     height: 50px;
     border: 4px solid;
-    overflow: hidden scroll;
+    overflow: auto;
 }
+.bax{
+    height: 100px;
+}
+/*i do noting here today im sorry for myself
